@@ -1,0 +1,7 @@
+{
+  "port" : 80,
+
+  "datasource" : {
+    "connection_string" : "mongodb+srv://arch10:arch10@mongocluster-4x2xc.gcp.mongodb.net/test?retryWrites=true"
+  }
+}
